@@ -4,6 +4,7 @@
 
 
 Here is the tree of the repository:
+```bash
 .
 ├── README.md
 ├── data
@@ -21,3 +22,4 @@ Here is the tree of the repository:
 ├── experiments.ipynb           #main notebook to run with our experiments
 ├── simulated_timeseries.py     #python file with methods used in experiment 1
 └── speech_recognition.py       #python file with methods used in experiment 2
+```
